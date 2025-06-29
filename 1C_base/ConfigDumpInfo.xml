@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.Компания" id="d2c28596-00be-43b4-abdb-0bd8a15134da" configVersion="f59e3c7388c52a40b72494352e3e6e2700000000"/>
+		<Metadata name="Catalog.Компания.Form.ФормаЭлемента" id="625e374b-2b83-4fff-b7dc-608db5b6941e" configVersion="18dbca8401f0d74b81d49c2b3368cd4f00000000"/>
+		<Metadata name="Catalog.Компания.Form.ФормаЭлемента.Form" id="625e374b-2b83-4fff-b7dc-608db5b6941e.0" configVersion="0c00732e0ab37646865222130d7edd8600000000"/>
+		<Metadata name="Catalog.Корабли" id="b90dbbba-0450-4c1c-af0f-638b084c3eb1" configVersion="94923d55f71fb144b9d2d6879667bb4c00000000">
+			<Metadata name="Catalog.Корабли.Attribute.Компания" id="1d4968e0-26ce-4737-ac70-273378b43a90"/>
+			<Metadata name="Catalog.Корабли.Attribute.НаименованиеРакеты" id="3b31f2f8-0dfe-4cfb-8355-9c0cca16784c"/>
+			<Metadata name="Catalog.Корабли.Attribute.ТипРакеты" id="6c1f7a25-c47f-4a25-8a7f-a8aee10796f7"/>
+			<Metadata name="Catalog.Корабли.Attribute.ИД" id="b703dde1-a3e6-4a50-98ad-df38fdbb58b4"/>
+			<Metadata name="Catalog.Корабли.Attribute.ИДРакеты" id="cabcb1bf-756b-4bd7-8c85-a60b7bcb3135"/>
+			<Metadata name="Catalog.Корабли.Attribute.Активный" id="d6fdc01d-d231-4f12-87be-7ce9f9811051"/>
+		</Metadata>
+		<Metadata name="Catalog.Корабли.ObjectModule" id="b90dbbba-0450-4c1c-af0f-638b084c3eb1.0" configVersion="d20e9b1ea85bc64791f87342f220211f00000000"/>
+		<Metadata name="Configuration.ПерваяКонфигурацияEDT" id="8763a5c1-569a-47f1-a392-cdef643b00dc" configVersion="097d4fa345c04444a73c6852e6d68d1900000000"/>
+		<Metadata name="Configuration.ПерваяКонфигурацияEDT.CommandInterface" id="a09954fb-0178-4928-adc5-7b8cc5134454.a" configVersion="f34e7c220c75104aa86135a128ed764400000000"/>
+		<Metadata name="Configuration.ПерваяКонфигурацияEDT.MainSectionCommandInterface" id="a09954fb-0178-4928-adc5-7b8cc5134454.9" configVersion="8b8dc2a07ac0254b9709a4b2615d5ba900000000"/>
+		<Metadata name="DataProcessor.ИнтеграцияРакеты" id="97711fbc-a30a-4275-8b2c-72459d3c3373" configVersion="086cbf630c154e459509d34e3c2ff03f00000000">
+			<Metadata name="DataProcessor.ИнтеграцияРакеты.Attribute.Ответ" id="18710a01-d31d-4e74-835e-6f8912ec62ae"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ИнтеграцияРакеты.Form.Форма" id="46a0d455-4bef-4031-83f8-5c81e8fe443c" configVersion="720a602d4f0d15489888fa867f56cd7100000000"/>
+		<Metadata name="DataProcessor.ИнтеграцияРакеты.Form.Форма.Form" id="46a0d455-4bef-4031-83f8-5c81e8fe443c.0" configVersion="5b18566cf58fac4785afd725ed6f09a000000000"/>
+		<Metadata name="DataProcessor.ПодключениеКHTTP" id="baae168f-e902-4b88-8e98-03df4a67576b" configVersion="b4e132262fb17d4e968794b066994d8700000000"/>
+		<Metadata name="DataProcessor.ПодключениеКHTTP.Form.Форма" id="13e95fd2-6d6e-473c-8da4-e7d9a46afb91" configVersion="ad116c69ae5b194797e41d5d0b4294a400000000"/>
+		<Metadata name="DataProcessor.ПодключениеКHTTP.Form.Форма.Form" id="13e95fd2-6d6e-473c-8da4-e7d9a46afb91.0" configVersion="c55f6e96b7263448ad7bd0ecb1a3ae8800000000"/>
+		<Metadata name="HTTPService.HTTPExchange" id="09c33d0c-461f-4502-b8a8-5eea564c8b4f" configVersion="d416fc9cf00de849b4598e3b5c2f8e3300000000">
+			<Metadata name="HTTPService.HTTPExchange.URLTemplate.InfoTest" id="66f80eeb-d0c2-45ce-91c6-d5dde25cd883"/>
+			<Metadata name="HTTPService.HTTPExchange.URLTemplate.InfoTest.Method.getFileInfo" id="ccd34fa4-4a56-454a-af41-52e6e479d6da"/>
+		</Metadata>
+		<Metadata name="HTTPService.HTTPExchange.Module" id="09c33d0c-461f-4502-b8a8-5eea564c8b4f.0" configVersion="595d288548f5924f84d69955f334fcdc00000000"/>
+		<Metadata name="Language.Русский" id="37af52b2-d704-4b0d-9b9e-65b68d218334" configVersion="53c2c6a2fcdc474eaf7f94ac0b03297000000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
